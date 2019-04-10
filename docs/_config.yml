@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+title: "いんたぽスプライト.anm"
+description: "Aviutl＆拡張編集 アニメーション効果フィルタ用スクリプト（暫定版）"
+show_downloads: false
+
+twitter:
+  username: tiribro
+
+github:
+  is_project_page: false
+  zip_url: ""
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/logo.jpg
+        height: 630
+        width: 1200
