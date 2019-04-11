@@ -5,7 +5,12 @@ Aviutlで2Dゲーム的なスプライトを動かすスクリプト。
 
 次フレームとのアルファ合成（半透明を使った適当なフレーム補間）もできます。伝統のドットスタイルからフォトリアルな炎のスプライトまで対応。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yinve5RlOoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- width="560" height="315" -->
+<div class="box-1">
+
+<iframe src="https://www.youtube.com/embed/yinve5RlOoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ## インストール
 
