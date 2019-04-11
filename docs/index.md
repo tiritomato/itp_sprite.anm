@@ -16,7 +16,9 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 より詳しい手順は[こちらのインストールページ](./install)を参照してください
 
 ## チュートリアル
+<div class="container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## 詳細ドキュメント
 
