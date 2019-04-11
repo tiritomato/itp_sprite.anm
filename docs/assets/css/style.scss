@@ -38,6 +38,24 @@
   height: 100%;
 }
 
+.tube1280x720 {
+  position: relative;
+}
+.tube1280x720::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%;
+}
+.tube1280x720 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
 .container{
   position:relative；
 }
