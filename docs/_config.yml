@@ -9,6 +9,7 @@ twitter:
 github:
   is_project_page: false
   zip_url: ""
+  youtube_demo_url: "https://www.youtube.com/embed/yinve5RlOoo"
 
 defaults:
   - scope:
