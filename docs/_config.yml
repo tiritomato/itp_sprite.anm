@@ -10,6 +10,7 @@ github:
   is_project_page: false
   zip_url: ""
   youtube_demo_url: "https://www.youtube.com/embed/yinve5RlOoo"
+  gslide_tutorial_url: "https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000"
 
 defaults:
   - scope:
