@@ -22,6 +22,10 @@
     word-break: break-word;
 }
 
+iframe {
+  max-width: 100%;
+}
+
 a.project-head:link {
     color: #ffffff;
     text-decoration: none;
