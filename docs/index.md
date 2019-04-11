@@ -18,8 +18,7 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 1. タイムラインにスプライト画像を作る
 1. 「アニメーション効果」フィルターを追加して、スプライトスクリプトのanmを読み込む
 1. スプライト画像の分割数（コマ数）を指定してオワリ！！
-
-<div class="slide1440x839"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+より詳しい手順は[こちらのチュートリアルページ](./tutorial)を参照してください
 
 ## 詳細ドキュメント
 
