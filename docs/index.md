@@ -1,11 +1,9 @@
 # いんたぽスプライト
 
-<!-- ゲーム実況でくそなプレイをさらした時（もし勢いをキープすべきなら）あなたが取るべき道は２つに一つです。今すぐ画面に配置されたあなたのアイコンを木っ端みじんに爆破するか、画面を丸ごと爆破して水に流すかです（暴論） -->
 Aviutlで2Dゲーム的なスプライトを動かすスクリプト。
 
 次フレームとのアルファ合成（半透明を使った適当なフレーム補間）もできます。伝統のドットスタイルからフォトリアルな炎のスプライトまで対応。
 
-<!-- width="560" height="315" -->
 <div class="tube1280x720"><iframe src="https://www.youtube.com/embed/yinve5RlOoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## インストール
@@ -17,6 +15,10 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 より詳しい手順は[こちらのインストールページ](./install)を参照してください
 
 ## チュートリアル
+1. タイムラインにスプライト画像を作る
+1. 「アニメーション効果」フィルターを追加して、スプライトスクリプトのanmを読み込む
+1. スプライト画像の分割数（コマ数）を指定してオワリ！！
+
 <div class="slide1440x839"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## 詳細ドキュメント
