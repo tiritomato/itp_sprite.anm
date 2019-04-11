@@ -6,11 +6,7 @@ Aviutlで2Dゲーム的なスプライトを動かすスクリプト。
 次フレームとのアルファ合成（半透明を使った適当なフレーム補間）もできます。伝統のドットスタイルからフォトリアルな炎のスプライトまで対応。
 
 <!-- width="560" height="315" -->
-<div class="box-1">
-
-<iframe src="https://www.youtube.com/embed/yinve5RlOoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
+<div class="tube1280x720"><iframe src="https://www.youtube.com/embed/yinve5RlOoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## インストール
 
@@ -21,9 +17,7 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 より詳しい手順は[こちらのインストールページ](./install)を参照してください
 
 ## チュートリアル
-<div class="container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+<div class="slide1440x839"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgOirKZ7He9heeSpjtTL8cejT5hyciIdcQhCJwcp3UKpLAI0f0FyT2gQK-PCMueTZwklNdXsYEBBxP/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## 詳細ドキュメント
 
