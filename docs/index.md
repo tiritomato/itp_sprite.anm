@@ -29,7 +29,7 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 [Jetrel](https://opengameart.org/content/explosion-animations)氏と[Cuzco](https://opengameart.org/content/explosion)氏のスプライト素材。CC0だけど素晴らしいクオリティ
 
 [DOVA-SYNDROME](https://dova-s.jp/)（BGM）  
-KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE) よく聞くBGM
+KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE)(Youtube) よく聞くBGM
 
 [効果音ラボ](https://soundeffect-lab.info/)  
 いつもお世話になっています。
@@ -37,4 +37,4 @@ KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE) よく聞くBGM
 [Pixabay](https://pixabay.com/)  
 MartinStr氏の水中の写真とChrisFiedler氏の羊皮紙のテクスチャ
 
-あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるスマホゲーに感謝（とスマホの電池寿命）を捧げて。
+あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を捧げて。
