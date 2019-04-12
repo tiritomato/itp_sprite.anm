@@ -22,22 +22,6 @@
     word-break: break-word;
 }
 
-.box-1 {
-  position: relative;
-}
-.box-1::before {
-  content: "";
-  display: block;
-  padding-top: 56.25%;
-}
-.box-1 iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .tube1280x720 {
   position: relative;
 }
@@ -69,6 +53,23 @@
   width: 100%;
   height: 100%;
 }
+
+.header_box {
+  position: relative;
+}
+.header_box::before {
+  content: "";
+  display: block;
+  padding-top: 50%;
+}
+.header_box iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 
 a.project-head:link {
     color: #ffffff;
