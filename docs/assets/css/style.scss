@@ -95,9 +95,13 @@ a.project-head:active {
     width: 1.5em;
     height: 1.5em;
 }
+.file-tree :first-child {
+    margin-top: initial;
+}
 .file-tree-icon-cell {
     width:2em;
 }
+
 
 
 
