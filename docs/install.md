@@ -16,9 +16,13 @@ Aviutlと拡張編集が構築できましたら
 >> Aviutl.exe ［exeファイル］  
 >> script ［フォルダ］  
 
-| mudai | mudai |
----|---
-| 012 | <img src="img/icon_aviutl.png" style="width:1em; height:1em"> |
-
+<table class="file-tree">
+  <tbody>
+    <tr>
+      <td><img src="img/icon_aviutl.png"></td>
+      <td><img src="img/icon_aviutl.png"></td>
+    </tr>
+  </tbody>
+</table>
 
 既存のフォルダがある場合は、混ぜてしまって大丈夫です
