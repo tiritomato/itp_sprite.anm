@@ -19,8 +19,18 @@ Aviutlと拡張編集が構築できましたら
 <table class="file-tree">
   <tbody>
     <tr>
+      <td><img src="img/icon_folder.png"></td>
+      <td colspan="2">Aviutl100（Aviutlが入っているフォルダ）</td>
+    </tr>
+    <tr>
+      <td></td>
       <td><img src="img/icon_aviutl.png"></td>
-      <td><img src="img/icon_aviutl.png"></td>
+      <td>Aviutl.exe</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><img src="img/icon_folder.png"></td>
+      <td>script</td>
     </tr>
   </tbody>
 </table>
