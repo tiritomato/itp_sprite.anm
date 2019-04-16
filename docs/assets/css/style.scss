@@ -90,18 +90,18 @@ a.project-head:active {
 table.file-tree td {
     border-width: 0;
     vertical-align: middle;
-    padding: 0;
 }
 table.file-tree td.file-tree-icon-cell {
     width: 2em;
     height: 2em;
+    padding: 0;
 }
-.file-tree-icon-cell img {
+table.file-tree td.file-tree-icon-cell img {
     width: 1.5em;
     height: 1.5em;
     margin: 0.25em 0.25em 0em 0.25em;
 }
-.file-tree-icon-cell :first-child {
+table.file-tree td.file-tree-icon-cell :first-child {
     margin: 0.25em 0.25em 0em 0.25em;
 }
 
