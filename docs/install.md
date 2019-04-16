@@ -12,9 +12,6 @@ Aviutlと拡張編集が構築できましたら
 （Aviutl.exeファイルと同じ階層にコピーします）
 
 例えば以下のようになっていれば正常です。
-> Aviutl100 ［フォルダ］
->> Aviutl.exe ［exeファイル］  
->> script ［フォルダ］  
 
 <table class="file-tree">
   <tbody>
