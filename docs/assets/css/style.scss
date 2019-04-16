@@ -89,12 +89,13 @@ a.project-head:active {
 
 .file-tree tbody tr td {
     border-width: 0;
+    vertical-align: middle;
 }
 .file-tree img {
     width: 1.5em;
     height: 1.5em;
 }
-.file-tree-icon {
+.file-tree-icon-cell {
     width:2em;
 }
 
