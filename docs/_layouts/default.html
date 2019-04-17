@@ -31,8 +31,10 @@
       </div>
       
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <div style="padding-left:6em; padding-right:6em">
+      <div style="padding-left:2em; padding-right:2em">
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      </div>
+      <div style="padding-left:6em; padding-right:6em">
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -48,7 +50,7 @@
       </div>
     </header>
     
-    <div class="main-content" style="padding:0; height:0; width:4em; margin-right:0.5em; margin-left:auto;">
+    <div class="main-content" style="padding:0; height:0; width:4em; margin-right:1em; margin-left:auto;">
       <div style="width:4em; height:10em; position:relative; top:-10em;">
         <a class="project-head" href="{{ site.baseurl }}">
           <img src="img/hbtn_top50a.png">
