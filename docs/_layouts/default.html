@@ -29,17 +29,9 @@
       <div class="main-content" style="padding:0; text-align:right;">
         <a class="project-head" href="{{ site.baseurl }}"><img src="img/title_art.jpg" style="width:100%"></a>
       </div>
-      <div class="main-content" style="padding:0; text-align:right; height:0;">
-        <a class="project-head" href="{{ site.baseurl }}">
-          <img src="img/hbtn_top50a.png" style="position:relative; top:-10em; right:-3em; width:4em; margin:0; padding:0;">
-        </a>
-        <a class="project-head" href="{{ site.github.zip_url }}">
-          <img src="img/hbtn_zip50a.png" style="position:relative; top:-5em; right:1em; width:4em; margin:0; padding:0;">
-        </a>
-      </div>
       
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <div style="padding-left:5.25em; padding-right:5.25em">
+      <div style="padding-left:6em; padding-right:6em">
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -55,6 +47,15 @@
       {% endif %}
       </div>
     </header>
+    
+    <div class="main-content" style="padding:0; text-align:right; height:0;">
+      <a class="project-head" href="{{ site.baseurl }}">
+        <img src="img/hbtn_top50a.png" style="position:relative; top:-10em; right:-3em; width:4em; margin:0; padding:0;">
+      </a>
+      <a class="project-head" href="{{ site.github.zip_url }}">
+        <img src="img/hbtn_zip50a.png" style="position:relative; top:-5em; right:1em; width:4em; margin:0; padding:0;">
+      </a>
+    </div>
     
     <main id="content" class="main-content" role="main">
       
