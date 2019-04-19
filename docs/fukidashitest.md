@@ -5,6 +5,9 @@
     <div><img src="https://tiribro.github.io/FukidashiALICE.anm/img/one_chance.jpg" title="one chance"></div>
     <div class="wideimage-caption" style="width:50%">１つのテキストでフキダシを再現。</div>
   </div>
+</div>
+
+<div class="wideimage-caption-block">
   <div>
     <div><img src="https://tiribro.github.io/FukidashiALICE.anm/img/prop_000.png" title="one chance"></div>
     <div class="wideimage-caption" style="width:50%">フィルタ（アニメーション効果）が４つ。<br><br>設定項目はたくさんありますが、付属のエイリアスからワンクリックで生成することもできます。<br><br>テキストを書き換えれば自動でリサイズ。</div>
