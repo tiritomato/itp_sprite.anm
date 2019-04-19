@@ -25,6 +25,15 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
   <div>より詳しい手順を<a href="./tutorial">スライドで見る</a></div>
 </div>
 
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./tutorial"><img src="img/one_tuto.jpg"/></a></td>
+      <td>より詳しい手順を<a href="./tutorial">スライドで見る</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 謝辞とクレジット
 チュートリアルなどを作成するにあたり以下の素材サイトを利用させていただきました
 
