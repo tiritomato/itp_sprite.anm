@@ -40,6 +40,7 @@ KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE)(Youtube) よく聞くBGM
 いつもお世話になっています。
 
 [Pixabay](https://pixabay.com/)  
-MartinStr氏の水中の写真とChrisFiedler氏の羊皮紙のテクスチャ
+画面に情報量少なすぎ困ったらPixabay。あったけぇー。。。
+MartinStr氏（水中の写真）、ChrisFiedler氏（羊皮紙のテクスチャ）、bartekhdd氏（フィルムのアイコン）、insspirito氏（アイコン集）
 
-あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を捧げて。
+あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝をよせて。
