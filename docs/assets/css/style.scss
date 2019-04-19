@@ -128,6 +128,8 @@ table.file-tree td.file-tree-icon-cell :first-child {
     }
     .wideimage-caption-block {
         display: table;
+        width:100%;
+        table-layout:fixed;
         border-spacing: 0.5em;
     }
     .wideimage-caption-block div {
@@ -142,9 +144,12 @@ table.file-tree td.file-tree-icon-cell :first-child {
 @media screen and (min-width: 64em)
 {
     .wideimage-caption {
+        min-width:20%;
     }
     .wideimage-caption-block {
         display: table;
+        width:100%;
+        table-layout:fixed;
         border-spacing: 0.5em;
     }
     .wideimage-caption-block div {
