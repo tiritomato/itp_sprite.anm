@@ -168,15 +168,23 @@ table.file-tree td.file-tree-icon-cell :first-child {
 }
 
 .main-content .img-instruction-table {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    word-break: keep-all;
+    word-wrap: break-word;
     border-spacing: 0.5em;
 }
-.main-content .img-instruction-table * {
-    border-width: 0;
-}
-.main-content .img-instruction-table td {
-    width: 50%;
+
+.main-content .img-instruction-table div {
+    display: table-cell;
     vertical-align: top;
+    width: 50%;
 }
 
+.main-content .img-instruction-table > div {
+    display: table-row;
+    width: 100%;
+}
 
 
