@@ -100,7 +100,8 @@ a.project-head:active {
 .main-content table.file-tree td.file-tree-icon-cell :first-child {
     width: 1.5em;
     height: 1.5em;
-    margin: 0;
+    margin: auto;
+    display: block;
 }
 
 .header-side-r {
