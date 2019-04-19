@@ -123,24 +123,24 @@ table.file-tree td.file-tree-icon-cell :first-child {
 }
 
 
-@media screen and (max-width: 42em)
+@media screen and (max-width: 64em)
 {
-    .image-caption-block {}
+    .wideimage-caption-block {}
 }
 
-@media screen and (min-width: 42em)
+@media screen and (min-width: 64em)
 {
-    .image-caption-block {
+    .wideimage-caption-block {
         display: table;
         border-spacing: 0.5em;
     }
 
-    .image-caption-block div {
+    .wideimage-caption-block div {
         display: table-cell;
         vertical-align: top;
     }
 
-    .image-caption-block > div {
+    .wideimage-caption-block > div {
         display: table-row;
     }
 }
