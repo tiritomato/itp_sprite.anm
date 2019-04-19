@@ -164,12 +164,3 @@ table.file-tree td.file-tree-icon-cell :first-child {
         display: table-row;
     }
 }
-
-.force-borderless {
-    border-width: 0;
-}
-
-.force-borderless * {
-    border-width: 0;
-}
-
