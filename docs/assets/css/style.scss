@@ -70,18 +70,9 @@
   height: 100%;
 }
 
-a.project-head:link {
-    color: #ffffff;
-    text-decoration: none;
-}
-a.project-head:visited {
-    color: #ffffff;
-    text-decoration: none;
-}
-a.project-head:hover {
-    color: #ffffff;
-    text-decoration: none;
-}
+a.project-head:link,
+a.project-head:visited,
+a.project-head:hover,
 a.project-head:active {
     color: #ffffff;
     text-decoration: none;
@@ -164,3 +155,12 @@ table.file-tree td.file-tree-icon-cell :first-child {
         display: table-row;
     }
 }
+
+.main-content .force-borderless, 
+.main-content .force-borderless th,
+.main-content .force-borderless td,
+.main-content .force-borderless * {
+    border-width: 0;
+}
+
+
