@@ -20,8 +20,10 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 1. 「アニメーション効果」フィルターを追加して、スプライトスクリプトのanmを読み込む
 1. スプライト画像の分割数（コマ数）を指定してオワリ！！
 
-<div><a href="./tutorial"><img src="img/one_tuto.jpg"/></a></div>
-<div>より詳しい手順を<a href="./tutorial">スライドで見る</a></div>
+<div>
+  <div><a href="./tutorial"><img src="img/one_tuto.jpg"/></a></div>
+  <div>より詳しい手順を<a href="./tutorial">スライドで見る</a></div>
+</div>
 
 ## 謝辞とクレジット
 チュートリアルなどを作成するにあたり以下の素材サイトを利用させていただきました
