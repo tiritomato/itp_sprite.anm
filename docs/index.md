@@ -23,7 +23,7 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 <div class="wideimage-caption-block">
   <div>
     <div><a href="./tutorial"><img src="img/one_tuto.jpg"/></a></div>
-    <div class="wideimage-caption">より詳しい手順を<a href="./tutorial">スライドで見る</a></div>
+    <div class="wideimage-caption">より詳しい手順を <a href="./tutorial">スライドで見る</a></div>
   </div>
 </div>
 
