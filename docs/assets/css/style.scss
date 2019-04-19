@@ -127,7 +127,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
         display: table;
         width:100%;
         table-layout:fixed;
-        word-break: break-all;
+        word-break: keep-all;
         word-wrap: break-word;
         border-spacing: 0.5em;
     }
@@ -150,7 +150,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
         display: table;
         width:100%;
         table-layout:fixed;
-        word-break: break-all;
+        word-break: keep-all;
         word-wrap: break-word;
         border-spacing: 0.5em;
     }
