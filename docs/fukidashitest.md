@@ -21,6 +21,13 @@
   </tbody>
 </table>
 
+<div class="img-instruction-table">
+  <div>
+    <img class="inst-cell" src="https://tiribro.github.io/FukidashiALICE.anm/img/one_chance.jpg" title="one chance">
+    <div>１つのテキストでフキダシを再現。</div>
+  </div>
+</div>
+
 
 ## 注意
 
