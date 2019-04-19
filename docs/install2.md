@@ -30,7 +30,7 @@ Aviutlと拡張編集が構築できましたら、zipファイルの中にあ�
   <tbody>
     <tr>
       <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
-      <td>Aviutl100（Aviutlが入っているフォルダ）</td>
+      <td colspan="2">Aviutl100（Aviutlが入っているフォルダ）</td>
     </tr>
     <tr>
       <td class="file-tree-line-cell"><img src="img/icon_treeline_t_rre.png"></td>
