@@ -145,6 +145,24 @@ table.file-tree td.file-tree-icon-cell :first-child {
     }
 }
 
+@media screen and (max-width: 42em)
+{
+    .wideimage-caption {
+        max-width: 100%;
+    }
+}
 
+@media screen and (max-width: 64em) and (min-width:42em)
+{
+    .wideimage-caption {
+        max-width: 10em;
+    }
+}
+
+@media screen and (min-width: 64em)
+{
+    .wideimage-caption {
+    }
+}
 
 
