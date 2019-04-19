@@ -80,21 +80,20 @@ a.project-head:active {
 
 table.file-tree td {
     border-width: 0;
-    vertical-align: middle;
     padding: 0em 0.5em;
 }
 table.file-tree td.file-tree-icon-cell {
     width: 2em;
     height: 2em;
-    padding: 0em 0.25em;
+    padding: 0;
+    text-align: center;
 }
-table.file-tree td.file-tree-icon-cell img {
+table.file-tree td.file-tree-icon-cell img,
+table.file-tree td.file-tree-icon-cell :first-child
+{
     width: 1.5em;
     height: 1.5em;
-    margin: 0.25em 0.25em 0em 0.25em;
-}
-table.file-tree td.file-tree-icon-cell :first-child {
-    margin: 0.25em 0.25em 0em 0.25em;
+    margin: 0;
 }
 
 .header-side-r {
