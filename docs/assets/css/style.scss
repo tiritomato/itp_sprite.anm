@@ -122,34 +122,12 @@ table.file-tree td.file-tree-icon-cell :first-child {
     height: 4em;
 }
 
-
-@media screen and (max-width: 64em)
-{
-    .wideimage-caption-block {}
-}
-
-@media screen and (min-width: 64em)
-{
-    .wideimage-caption-block {
-        display: table;
-        border-spacing: 0.5em;
-    }
-
-    .wideimage-caption-block div {
-        display: table-cell;
-        vertical-align: top;
-    }
-
-    .wideimage-caption-block > div {
-        display: table-row;
-    }
-}
-
 @media screen and (max-width: 42em)
 {
     .wideimage-caption {
         max-width: 100%;
     }
+    .wideimage-caption-block {}
 }
 
 @media screen and (max-width: 64em) and (min-width:42em)
@@ -157,11 +135,33 @@ table.file-tree td.file-tree-icon-cell :first-child {
     .wideimage-caption {
         max-width: 10em;
     }
+    .wideimage-caption-block {
+        display: table;
+        border-spacing: 0.5em;
+    }
+    .wideimage-caption-block div {
+        display: table-cell;
+        vertical-align: top;
+    }
+    .wideimage-caption-block > div {
+        display: table-row;
+    }
 }
 
 @media screen and (min-width: 64em)
 {
     .wideimage-caption {
+    }
+    .wideimage-caption-block {
+        display: table;
+        border-spacing: 0.5em;
+    }
+    .wideimage-caption-block div {
+        display: table-cell;
+        vertical-align: top;
+    }
+    .wideimage-caption-block > div {
+        display: table-row;
     }
 }
 
