@@ -1,26 +1,5 @@
 # フキダシアリス.anm
 
-<table class="img-instruction-table">
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://tiribro.github.io/FukidashiALICE.anm/img/one_chance.jpg" title="one chance">
-      </td>
-      <td>１つのテキストでフキダシを再現。</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://tiribro.github.io/FukidashiALICE.anm/img/prop_000.png" title="one chance">
-      </td>
-      <td>
-        フィルタ（アニメーション効果）が４つ。<br><br>
-        設定項目はたくさんありますが、付属のエイリアスからワンクリックで生成することもできます。<br><br>
-        テキストを書き換えれば自動でリサイズ。
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <div class="img-instruction-table">
   <div>
     <div>
