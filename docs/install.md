@@ -20,7 +20,7 @@ Aviutlと拡張編集が構築できましたら
       <td colspan="3">Aviutl100（Aviutlが入っているフォルダ）</td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="img/icon_aviutl.png"></td>
       <td class="file-tree-icon-cell"><img src="img/icon_aviutl.png"></td>
       <td colspan="2">Aviutl.exe</td>
     </tr>
