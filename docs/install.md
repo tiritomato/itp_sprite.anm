@@ -3,9 +3,16 @@
 あらかじめPCに「Aviutl」と「拡張編集」を導入しておいてください
 
 Aviutlと拡張編集が構築できましたら  
-同梱のAviutl100フォルダの中にある
+zipファイルの中にあるスクリプトフォルダ
 
-- script
+<table class="file-tree">
+  <tbody>
+    <tr>
+      <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
+      <td>script</td>
+    </tr>
+  </tbody>
+</table>
 
 このスプライトスクリプトデータを  
 お使いのPCのAviutlフォルダの直下にコピーしてください。  
