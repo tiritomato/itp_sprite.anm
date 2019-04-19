@@ -159,13 +159,12 @@ table.file-tree td.file-tree-icon-cell :first-child {
 .main-content .img-instruction-table {
     border-spacing: 0.5em;
 }
-.main-content .img-instruction-table th,
 .main-content .img-instruction-table * {
     border-width: 0;
 }
 .main-content .img-instruction-table td {
     width: 50%;
-    border-width: 0;
+    vertical-align: top;
 }
 
 
