@@ -124,7 +124,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
 @media screen and (max-width: 64em) and (min-width:42em)
 {
     .wideimage-caption {
-        max-width: 25%;
+        width: 25%;
     }
     .wideimage-caption-block {
         display: table;
@@ -137,6 +137,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
     .wideimage-caption-block div {
         display: table-cell;
         vertical-align: top;
+        width: 75%;
     }
     .wideimage-caption-block > div {
         display: table-row;
@@ -146,7 +147,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
 @media screen and (min-width: 64em)
 {
     .wideimage-caption {
-        min-width:20%;
+        width:20%;
     }
     .wideimage-caption-block {
         display: table;
@@ -159,6 +160,7 @@ table.file-tree td.file-tree-icon-cell :first-child {
     .wideimage-caption-block div {
         display: table-cell;
         vertical-align: top;
+        width: 80%;
     }
     .wideimage-caption-block > div {
         display: table-row;
