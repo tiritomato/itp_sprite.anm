@@ -123,9 +123,6 @@ table.file-tree td.file-tree-icon-cell :first-child {
 
 @media screen and (max-width: 64em) and (min-width:42em)
 {
-    .wideimage-caption {
-        width: 25%;
-    }
     .wideimage-caption-block {
         display: table;
         width:100%;
@@ -142,13 +139,13 @@ table.file-tree td.file-tree-icon-cell :first-child {
     .wideimage-caption-block > div {
         display: table-row;
     }
+    .wideimage-caption {
+        width: 25%;
+    }
 }
 
 @media screen and (min-width: 64em)
 {
-    .wideimage-caption {
-        width:20%;
-    }
     .wideimage-caption-block {
         display: table;
         width:100%;
@@ -164,6 +161,9 @@ table.file-tree td.file-tree-icon-cell :first-child {
     }
     .wideimage-caption-block > div {
         display: table-row;
+    }
+    .wideimage-caption {
+        width:20%;
     }
 }
 
