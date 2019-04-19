@@ -1,6 +1,6 @@
 # フキダシアリス.anm
 
-<table>
+<table class="force-borderless">
   <tbody>
     <tr>
       <td style="width:50%; border-width:0;">
