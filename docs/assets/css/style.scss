@@ -176,7 +176,8 @@ table.file-tree td.file-tree-icon-cell :first-child {
     border-spacing: 0.5em;
 }
 
-.main-content .img-instruction-table div {
+.main-content .img-instruction-table div,
+.main-content .img-instruction-table .inst-cell {
     display: table-cell;
     vertical-align: top;
     width: 50%;
