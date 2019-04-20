@@ -272,3 +272,17 @@ a.project-head:active {
 .btn.footer:hover {
     background-color: #000;
 }
+
+.round-btn-box {
+    position: relative;
+}
+.round-btn-box .active {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: 0.2s; // ゆっくり
+}
+.round-btn-box .active {
+    opacity: 1;
+}
