@@ -275,6 +275,9 @@ a.project-head:active {
 
 .round-btn-box {
     position: relative;
+    display: block;
+    width: 4em;
+    height: 4em;
 }
 .round-btn-box .active {
     position: absolute;
