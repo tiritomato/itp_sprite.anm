@@ -249,3 +249,14 @@ a.project-head:active {
     display: table-cell;
     vertical-align: top;
 }
+
+.site-footer .footer-btn-cell {
+    display: table-cell;
+    vertical-align: top;
+    width: 5em;
+}
+
+.site-footer .footer-btn-cell img {
+    width: 4em;
+    height: 4em;
+}
