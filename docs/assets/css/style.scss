@@ -291,5 +291,12 @@ a.project-head:active {
 }
 
 .btn.footer {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100%;
+}
+
+.btn.footer:hover {
     background-color: #000;
 }
