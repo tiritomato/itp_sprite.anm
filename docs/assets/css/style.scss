@@ -283,6 +283,6 @@ a.project-head:active {
     opacity: 0;
     transition: 0.2s; // ゆっくり
 }
-.round-btn-box .active {
+.round-btn-box:hover .active {
     opacity: 1;
 }
