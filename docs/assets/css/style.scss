@@ -248,13 +248,13 @@ a.project-head:active {
 .site-footer .footer-row > div {
     display: table-cell;
     vertical-align: top;
-    padding-right: 1em;
+    padding: 0 1em 1em 0;
 }
 
 .site-footer .footer-row .footer-btns-cell {
     width: 4em;
     height: 4em;
-    padding: 0;
+    padding: 0 0 0.5em 0;
 }
 
 .site-footer .footer-row .footer-btns-cell img {
@@ -281,7 +281,7 @@ a.project-head:active {
     left: 0;
     top: 0;
     opacity: 0;
-    transition: 0.2s; // ゆっくり
+    transition: 0.2s;
 }
 .round-btn-box:hover .active {
     opacity: 1;
