@@ -234,10 +234,17 @@ a.project-head:active {
     width: 100%;
     table-layout: fixed;
     overflow: hidden;
+    display: table;
+    word-break: keep-all;
+    word-wrap: break-word;
 }
 
 .site-footer .footer-row {
+    display: table-row;
+    width: 100%;
+    padding: 0;
 }
 
 .site-footer .footer-cell {
+    display: table-cell;
 }
