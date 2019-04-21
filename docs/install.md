@@ -52,4 +52,13 @@ zipファイルの中にあるスクリプトフォルダ
 </table>
 </div>
 
+<div class="filelist-box">
+  <div class="filelist-line">
+    <img class="filelist-icon" src="img/icon_folder.png">
+    <div class="filelist-text" style="padding-left:2em;">
+      Aviutl100（Aviutlが入っているフォルダ）
+    </div>
+  </div>
+</div>
+
 （既存のAviutl100&yen;scriptフォルダがある場合は、混ぜてしまって大丈夫です）
