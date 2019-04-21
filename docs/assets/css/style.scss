@@ -297,14 +297,14 @@ a.project-head:active {
 .filelist-line {
     height: 2em;
 }
-.filelist-box > img {
+.filelist-box .filelist-line > img {
     display: block;
     width: 2em;
     height: 2em;
     float: left;
     padding: 0.25em;
 }
-.filelist-box > img.filelist-root {
+.filelist-box .filelist-line > img.filelist-root {
     padding: 0;
 }
 .filelist-text {
