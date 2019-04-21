@@ -292,9 +292,8 @@ a.project-head:active {
 }
 
 .filelist-box {
-    background-color: #ccc;
 }
-.filelist-line {
+.filelist-box .filelist-line {
     height: 2em;
 }
 .filelist-box .filelist-line > img {
