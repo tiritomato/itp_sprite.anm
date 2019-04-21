@@ -62,6 +62,16 @@ zipファイルの中にあるスクリプトフォルダ
     <img src="img/icon_aviutl.png">
     <div class="filelist-text">Aviutl.exe</div>
   </div>
+  <div class="filelist-line">
+    <img src="img/icon_treeline_corner_er.png" class="filelist-root">
+    <img src="img/icon_folder.png">
+    <div class="filelist-text">script</div>
+  </div>
+  <div class="filelist-line">
+    <img src="img/icon_treeline_corner_rr.png" class="filelist-root">
+    <img src="img/icon_paper.png">
+    <div class="filelist-text">いんたぽスプライト.anm</div>
+  </div>
 </div>
 
 （既存のAviutl100&yen;scriptフォルダがある場合は、混ぜてしまって大丈夫です）
