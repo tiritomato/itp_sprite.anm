@@ -5,14 +5,11 @@
 Aviutlと拡張編集が構築できましたら  
 zipファイルの中にあるスクリプトフォルダ
 
-<table class="file-tree">
-  <tbody>
-    <tr>
-      <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
-      <td>script</td>
-    </tr>
-  </tbody>
-</table>
+<div class="filelist-box">
+  <div class="filelist-line">
+    <img src="img/icon_folder.png"><div class="filelist-text">script</div>
+  </div>
+</div>
 
 このスクリプトフォルダをお使いのPCのAviutlフォルダにコピーしてください。  
 （Aviutl.exeファイルと同じ階層にコピーします）
