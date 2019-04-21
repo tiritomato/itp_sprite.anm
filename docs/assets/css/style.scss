@@ -295,11 +295,16 @@ a.project-head:active {
     background-color: #999;
 }
 .filelist-line {
+    height: 2em;
 }
 .filelist-icon {
+    width: 2em;
+    height: 2em;
+    margin: 0.25em;
+}
+.filelist-icon img {
     width: 1.5em;
     height: 1.5em;
-    margin: 0.25em;
 }
 .filelist-text {
 }
