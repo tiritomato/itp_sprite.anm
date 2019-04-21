@@ -19,39 +19,6 @@ zipファイルの中にあるスクリプトフォルダ
 
 例えば以下のようになっていれば正常です。
 
-<div style="width:100%; overflow:hidden;">
-<table class="file-tree">
-  <colgroup>
-    <col style="width:2em">
-    <col style="width:2em">
-    <col style="width:2em">
-    <col>
-  </colgroup>
-  <tbody>
-    <tr>
-      <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
-      <td colspan="3">Aviutl100（Aviutlが入っているフォルダ）</td>
-    </tr>
-    <tr>
-      <td class="file-tree-line-cell"><img src="img/icon_treeline_t_rre.png"></td>
-      <td class="file-tree-icon-cell"><img src="img/icon_aviutl.png"></td>
-      <td colspan="2">Aviutl.exe</td>
-    </tr>
-    <tr>
-      <td class="file-tree-line-cell"><img src="img/icon_treeline_corner_er.png"></td>
-      <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
-      <td colspan="2">script</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="file-tree-line-cell"><img src="img/icon_treeline_corner_rr.png"></td>
-      <td class="file-tree-icon-cell"><img src="img/icon_paper.png"></td>
-      <td>いんたぽスプライト.anm</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <div class="filelist-box">
   <div class="filelist-line">
     <img src="img/icon_folder.png">
@@ -67,7 +34,7 @@ zipファイルの中にあるスクリプトフォルダ
     <img src="img/icon_folder.png">
     <div class="filelist-text">script</div>
   </div>
-  <div class="filelist-line">
+  <div class="filelist-line" style="padding-left:2em;">
     <img src="img/icon_treeline_corner_rr.png" class="filelist-root">
     <img src="img/icon_paper.png">
     <div class="filelist-text">いんたぽスプライト.anm</div>
