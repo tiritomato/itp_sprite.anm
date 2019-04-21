@@ -19,6 +19,7 @@ zipファイルの中にあるスクリプトフォルダ
 
 例えば以下のようになっていれば正常です。
 
+<div style="width:100%;">
 <table class="file-tree">
   <colgroup>
     <col style="width:2em">
@@ -49,5 +50,6 @@ zipファイルの中にあるスクリプトフォルダ
     </tr>
   </tbody>
 </table>
+</div>
 
 （既存のAviutl100&yen;scriptフォルダがある場合は、混ぜてしまって大丈夫です）
