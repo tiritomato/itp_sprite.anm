@@ -300,11 +300,12 @@ a.project-head:active {
 .filelist-icon {
     width: 2em;
     height: 2em;
-    margin: 0.25em;
 }
-.filelist-icon img {
+.filelist-icon img,
+.filelist-icon:first-child {
     width: 1.5em;
     height: 1.5em;
+    margin: 0.25em;
 }
 .filelist-text {
 }
