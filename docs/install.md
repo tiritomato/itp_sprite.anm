@@ -20,6 +20,12 @@ zipファイルの中にあるスクリプトフォルダ
 例えば以下のようになっていれば正常です。
 
 <table class="file-tree">
+  <colgroup>
+    <col style="width:2em">
+    <col style="width:2em">
+    <col style="width:2em">
+    <col>
+  </colgroup>
   <tbody>
     <tr>
       <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
