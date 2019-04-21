@@ -54,10 +54,10 @@ zipファイルの中にあるスクリプトフォルダ
 
 <div class="filelist-box">
   <div class="filelist-line">
-    <img class="filelist-icon" src="img/icon_folder.png">
-    <span class="filelist-text" style="padding-left:2em;">
+    <div class="filelist-icon"><img src="img/icon_folder.png"></div>
+    <div class="filelist-text" style="padding-left:2em;">
       Aviutl100（Aviutlが入っているフォルダ）
-    </span>
+    </div>
   </div>
 </div>
 
