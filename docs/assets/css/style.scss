@@ -298,16 +298,13 @@ a.project-head:active {
     height: 2em;
 }
 .filelist-box .filelist-icon {
+    display: block;
     width: 2em;
     height: 2em;
     float: left;
+    padding: 0.25em;
 }
-.filelist-box .filelist-icon img,
-.filelist-box .filelist-icon:first-child {
-    width: 1.5em;
-    height: 1.5em;
-    margin: 0.25em;
-}
+
 .filelist-text {
 }
 
