@@ -297,12 +297,13 @@ a.project-head:active {
 .filelist-line {
     height: 2em;
 }
-.filelist-icon {
+.filelist-box .filelist-icon {
     width: 2em;
     height: 2em;
+    float: left;
 }
-.filelist-icon img,
-.filelist-icon:first-child {
+.filelist-box .filelist-icon img,
+.filelist-box .filelist-icon:first-child {
     width: 1.5em;
     height: 1.5em;
     margin: 0.25em;
